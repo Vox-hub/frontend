@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Arabic",
+    "value": "ar",
+    "voices": [
+      {
+        "title": "Zeina",
+        "gender": "Female"
+      }
+    ]
+  },
+  {
+    "title": "English",
+    "value": "en",
+    "voices": [
+      {
+        "title": "Joanna",
+        "gender": "Female"
+      },
+      {
+        "title": "Matthew",
+        "gender": "Male"
+      },
+      {
+        "title": "Salli",
+        "gender": "Female"
+      },
+      {
+        "title": "Ivy",
+        "gender": "Female"
+      },
+      {
+        "title": "Kendra",
+        "gender": "Female"
+      },
+      {
+        "title": "Justin",
+        "gender": "Male"
+      }
+    ]
+  },
+  {
+    "title": "French",
+    "value": "fr",
+    "voices": [
+      {
+        "title": "Celine",
+        "gender": "Female"
+      },
+      {
+        "title": "Mathieu",
+        "gender": "Male"
+      }
+    ]
+  }
+]

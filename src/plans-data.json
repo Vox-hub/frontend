@@ -1,0 +1,43 @@
+[
+  {
+    "id": "55344",
+    "name": "Newborn",
+    "monthlyPrice": 14.99,
+    "yearlyPrice": 149.99,
+    "features": [
+      "Ability to ask almost 4h",
+      "Get 24h worth of answers",
+      "Allowed 1min each question",
+      "Access to multiple languages",
+      "Access to chatGPT model 3.5"
+    ]
+  },
+  {
+    "id": "55345",
+    "name": "Child",
+    "monthlyPrice": 29.99,
+    "yearlyPrice": 299.99,
+    "features": [
+      "All newborn features",
+      "Ability to ask almost 7h",
+      "Get 50h worth of answers",
+      "Allowed 2min each question",
+      "Special customer support"
+    ]
+  },
+  {
+    "id": "55346",
+    "name": "Adult",
+    "monthlyPrice": 39.99,
+    "yearlyPrice": 499.99,
+    "features": [
+      "All child features",
+      "Ability to ask almost 10h",
+      "Get 100h worth of answers",
+      "All chatGPT models",
+      "Allowed 5min each question",
+      "Suggest features to the platform"
+    ],
+    "popular": true
+  }
+]
